@@ -25,7 +25,7 @@ pyrsistent==0.15.6
 pytz==2019.3
 six==1.13.0
 tensorboard==1.9.0
-tensorflow==1.9.0
+tensorflow==2.5.0
 tensorflow-estimator==1.14.0
 tensorflow-serving-api==1.10.1
 termcolor==1.1.0
